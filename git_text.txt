@@ -16,4 +16,4 @@ Inserir funcao do que faz
 
 GIT DIFF
 ==========
-Exibe diferencial entre o arquivo original
+Exibe diferencial entre o arquivo original antes do commit
