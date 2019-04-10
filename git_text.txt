@@ -1,0 +1,14 @@
+GIT INIT
+=========
+
+Cria conexao entre a estacao local e a nuvem
+
+
+GIT RESET
+==========
+Remove arquivos eleitos para commit
+
+
+GIT SHOW
+==========
+inserir funcao do que faz

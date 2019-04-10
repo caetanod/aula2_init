@@ -1,1 +1,3 @@
-git reset A
+git reset
+
+Aprendendo GIT
