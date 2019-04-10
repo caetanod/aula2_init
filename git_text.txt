@@ -11,4 +11,9 @@ Remove arquivos eleitos para commit
 
 GIT SHOW
 ==========
-inserir funcao do que faz
+Inserir funcao do que faz
+
+
+GIT DIFF
+==========
+Exibe diferencial entre o arquivo original
